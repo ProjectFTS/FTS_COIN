@@ -10,3 +10,5 @@ For the github with our Linux CLI and GUI files please [click here](https://gith
 For the github with our MAC CLI and GUI files please [click here](https://github.com/ProjectFTS/FTS_COIN_MAC)
 
 For the github with our Windows CLI files please [click here](https://github.com/ProjectFTS/FTS_COIN_LINUX)
+
+For the github with our Windows GUI files (Standard Desktop Wallet) please [click here] (https://github.com/ProjectFTS/FTS_COIN_WINDOWS_GUI)
