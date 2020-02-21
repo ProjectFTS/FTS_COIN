@@ -1,6 +1,6 @@
 ### Installing
 
-We offer binary images of the latest releases here: https://github.com/ftscoin/ftscoin/releases
+We offer binary images of the latest releases here: https://github.com/ProjectFTS/FTS_COIN
 
 If you would like to compile yourself, read on.
 
@@ -24,11 +24,12 @@ If you are using Clang, you will need Clang 6.0 or higher. You will also need li
 - `sudo apt-get update`
 - `sudo apt-get install aptitude -y`
 - `sudo aptitude install -y build-essential g++-8 gcc-8 git libboost-all-dev python-pip libssl-dev`
-- `sudo pip install cmake`
+- `sudo apt-get install cmake`
 - `export CC=gcc-8`
 - `export CXX=g++-8`
-- `git clone -b master --single-branch https://github.com/ftscoin/ftscoin`
-- `cd ftscoin`
+- `git clone -b master --single-branch https://github.com/ProjectFTS/FTS_COIN`
+- `cd FTS_COIN`
+- `cd ftscoin-master`
 - `mkdir build`
 - `cd build`
 - `cmake ..`
@@ -37,7 +38,8 @@ If you are using Clang, you will need Clang 6.0 or higher. You will also need li
 The binaries will be in the `src` folder when you are complete.
 
 - `cd src`
-- `./FTSCoind --version`
+- `./FTSCoind --version` or if you would like to help support the network and allow others to access your FTS node
+`./FTSCoind --enable-cors="*" --enable-blockexplorer --rpc-bind-ip=0.0.0.0 --rpc-bind-port=11898`
 
 ##### Ubuntu, using Clang
 
@@ -61,8 +63,9 @@ You need to modify the below command for your version of ubuntu - see https://ap
 - `sudo pip install cmake`
 - `export CC=clang-6.0`
 - `export CXX=clang++-6.0`
-- `git clone -b master --single-branch https://github.com/ftscoin/ftscoin`
-- `cd ftscoin`
+- `git clone -b master --single-branch https://github.com/ProjectFTS/FTS_COIN`
+- `cd FTS_COIN`
+- `cd ftscoin-master`
 - `mkdir build`
 - `cd build`
 - `cmake ..`
@@ -80,8 +83,9 @@ Ensure you have the dependencies listed above.
 If you want to use clang, ensure you set the environment variables `CC` and `CXX`.
 See the ubuntu instructions for an example.
 
-- `git clone -b master --single-branch https://github.com/ftscoin/ftscoin`
-- `cd ftscoin`
+- `git clone -b master --single-branch https://github.com/ProjectFTS/FTS_COIN`
+- `cd FTS_COIN`
+- `cd ftscoin-master`
 - `mkdir build`
 - `cd build`
 - `cmake ..`
@@ -104,8 +108,9 @@ The binaries will be in the `src` folder when you are complete.
 - `brew install --force cmake boost llvm gcc@8 openssl`
 - `export CC=gcc-8`
 - `export CXX=g++-8`
-- `git clone -b master --single-branch https://github.com/ftscoin/ftscoin`
-- `cd ftscoin`
+- `git clone -b master --single-branch https://github.com/ProjectFTS/FTS_COIN`
+- `cd FTS_COIN`
+- `cd ftscoin-master`
 - `mkdir build`
 - `cd build`
 - `cmake ..`
@@ -128,8 +133,9 @@ The binaries will be in the `src` folder when you are complete.
 - `brew install --force cmake boost llvm openssl`
 - `export CC=/usr/local/opt/llvm/bin/clang`
 - `export CXX=/usr/local/opt/llvm/bin/clang++`
-- `git clone -b master --single-branch https://github.com/ftscoin/ftscoin`
-- `cd ftscoin`
+- `git clone -b master --single-branch https://github.com/ProjectFTS/FTS_COIN`
+- `cd FTS_COIN`
+- `cd ftscoin-master`
 - `mkdir build`
 - `cd build`
 - `cmake ..`
