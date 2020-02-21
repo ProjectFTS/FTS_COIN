@@ -1,5 +1,5 @@
 **Welcome to FTS Coin!**
-*Click through to the [ftscoin-master](https://github.com/ProjectFTS/FTS_COIN/tree/master/ftscoin-master) file above to build FTS Coin binaries yourself and/or help run a node!!!
+*Click through to the [ftscoin-master](https://github.com/ProjectFTS/FTS_COIN/tree/master/ftscoin-master) file above to build FTS Coin binaries yourself and help run a node!!!*
 
 We hope to help provide a privacy coin that also enables the spread of mass adoption!
 To earn FTS Coin by getting new businesses to accept any form of cryptocurrency [click here](https://ftsmothership.info)
