@@ -19,7 +19,10 @@ If you are using GCC, you will need GCC-7.0 or higher.
 If you are using Clang, you will need Clang 6.0 or higher. You will also need libstdc++\-6.0 or higher.
 
 ##### Ubuntu, using GCC
-
+- `sudo apt-get update`
+- `sudo apt-get upgrade`
+- `sudo apt-get install add-apt-repository`
+- `sudo add-apt-repository ppa:ubuntu-toolchain-r/test -y`
 - `sudo add-apt-repository ppa:ubuntu-toolchain-r/test -y`
 - `sudo apt-get update`
 - `sudo apt-get install aptitude -y`
