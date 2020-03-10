@@ -275,7 +275,7 @@ const static   boost::uuids::uuid CRYPTONOTE_NETWORK         =
 const char* const SEED_NODES[] = {
   "node3.ftscoin.xyz:11897",
   "node4.ftscoin.xyz:11897",
-  "explorer.ftscoin.xyz:11897"
+  "explorer.ftscoin.xyz:11897",
   "pool.ftscoin.xyz:11897"
 };
 } // CryptoNote
