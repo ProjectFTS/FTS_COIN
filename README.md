@@ -1,4 +1,4 @@
-## Welcome to FTS Coin!\
+## Welcome to FTS Coin!
 ![FTS LOGO](https://github.com/ProjectFTS/FTS_LOGO/blob/master/Wallet.png)\
 *Click through to the [ftscoin-master](https://github.com/ProjectFTS/FTS_COIN/tree/master/ftscoin-master) file above to build FTS Coin binaries yourself and help run a node!!!*
 
