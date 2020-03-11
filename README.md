@@ -14,4 +14,5 @@ For the github with our Linux CLI and GUI files please [click here](https://gith
 
 For the github with our MAC CLI and GUI files please [click here](https://github.com/ProjectFTS/FTS_COIN_MAC)
 
+For the github with our mobila app dev source files [click here](https://github.com/ProjectFTS/FTS_MOBILE) 
 
