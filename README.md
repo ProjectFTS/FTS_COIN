@@ -19,4 +19,4 @@ For the github with repo our mobila app dev source files [click here](https://gi
 
 For the github repo with the FTS Logo [click here](https://github.com/ProjectFTS/FTS_LOGO)
 
-For the github repo with the FTS Coin WooCommerce Wordpress Gateway Plugin [Clicke here](https://github.com/ProjectFTS/WCFTSPaymentGateway)
+For the github repo with the FTS Coin WooCommerce Wordpress Gateway Plugin [Click here](https://github.com/ProjectFTS/WCFTSPaymentGateway)
