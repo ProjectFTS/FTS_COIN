@@ -23,7 +23,7 @@ For the github repo with the FTS Coin WooCommerce Wordpress Gateway Plugin [Clic
 
 ### Installing
 
-We offer binary images of the latest releases here: https://github.com/ProjectFTS/FTS_COIN
+We offer binary images of the latest releases here: https://github.com/ProjectFTS/FTS_COIN/releases/latest
 
 If you would like to compile yourself, read on.
 
