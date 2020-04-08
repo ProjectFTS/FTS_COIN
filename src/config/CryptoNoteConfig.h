@@ -83,7 +83,7 @@ const size_t   CRYPTONOTE_COINBASE_BLOB_RESERVED_SIZE        = 600;
 
 const size_t   CRYPTONOTE_DISPLAY_DECIMAL_POINT              = 8;
 
-const uint64_t MINIMUM_FEE                                   = UINT64_C(10000000);
+const uint64_t MINIMUM_FEE                                   = UINT64_C(10000); // 0.0001 FTS
 
 /* This section defines our minimum and maximum mixin counts required for transactions */
 const uint64_t MINIMUM_MIXIN_V1                              = 0;
@@ -107,7 +107,7 @@ const uint64_t DEFAULT_MIXIN_V1                              = MAXIMUM_MIXIN_V1;
 const uint64_t DEFAULT_MIXIN_V2                              = MAXIMUM_MIXIN_V2;
 const uint64_t DEFAULT_MIXIN_V3                              = MAXIMUM_MIXIN_V3;
 
-const uint64_t DEFAULT_DUST_THRESHOLD                        = UINT64_C(100000);
+const uint64_t DEFAULT_DUST_THRESHOLD                        = UINT64_C(10000); // old 100000
 const uint64_t DEFAULT_DUST_THRESHOLD_V2                     = UINT64_C(0);
 
 const uint32_t DUST_THRESHOLD_V2_HEIGHT                      = MIXIN_LIMITS_V2_HEIGHT;
@@ -265,8 +265,8 @@ const uint64_t DATABASE_READ_BUFFER_MB_DEFAULT_SIZE          = 10;
 const uint32_t DATABASE_DEFAULT_MAX_OPEN_FILES               = 100;
 const uint16_t DATABASE_DEFAULT_BACKGROUND_THREADS_COUNT     = 2;
 
-const char     LATEST_VERSION_URL[]                          = "http://ftscoin.xyz";
-const std::string LICENSE_URL                                = "https://github.com/ftscoin/ftscoin/blob/master/LICENSE";
+const char     LATEST_VERSION_URL[]                          = "https://github.com/ProjectFTS/FTS_COIN/releases/latest";
+const std::string LICENSE_URL                                = "https://github.com/ProjectFTS/FTS_COIN/blob/master/LICENSE";
 const static   boost::uuids::uuid CRYPTONOTE_NETWORK         =
 {
   {  0xaa, 0xcd, 0xdc, 0x34, 0x66, 0x72, 0xdd, 0xff, 0x12, 0x23, 0x34, 0x45, 0x55, 0xde, 0xfd, 0xa2  }
