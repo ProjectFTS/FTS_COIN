@@ -2,11 +2,11 @@
 #define STR(x) STR_HELPER(x)
 
 #define PROJECT_NAME "FTSCoin"
-#define PROJECT_SITE "http://github.com/ftscoin"
+#define PROJECT_SITE "http://github.com/ProjectFTS"
 #define PROJECT_COPYRIGHT "Copyright 2020, The FTSCoin Developers"
 #define APP_VER_MAJOR 2
 #define APP_VER_MINOR 0
-#define APP_VER_REV 0
+#define APP_VER_REV 1
 #define APP_VER_BUILD 108
 
 #define BUILD_COMMIT_ID "@VERSION@"
