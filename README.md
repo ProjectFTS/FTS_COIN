@@ -7,13 +7,17 @@ To earn FTS Coin by getting new businesses to accept any form of cryptocurrency 
 
 Please feel free to check out our public [whitepaper](https://github.com/ProjectFTS/WhitePaper)
 
-For the github with our Windows CLI files please [click here](https://github.com/ProjectFTS/FTS_COIN_LINUX)
+For our Windows CLI files please [click here](https://github.com/ProjectFTS/FTS_COIN/releases/download/v2.0.1/ftscoin-v2.0.1-win.zip)
 
 **For the github with our Windows GUI files (Standard Desktop Wallet) please** [click here](https://github.com/ProjectFTS/FTS_COIN_WINDOWS_GUI)
 
-For the github repo with our Linux CLI and GUI files please [click here](https://github.com/ProjectFTS/FTS_COIN_LINUX)
+For the github repo with our Linux GUI files please [click here](https://github.com/projectfts/FTS_LINUX_GUI)
 
-For the github with repo our MAC CLI and GUI files please [click here](https://github.com/ProjectFTS/FTS_COIN_MAC)
+For our Linux CLI files please [click here](https://github.com/ProjectFTS/FTS_COIN/releases/download/v2.0.1/ftscoin-v2.0.1-linux.zip)
+
+For the github repo with our MAC GUI files please [click here](https://github.com/projectFTS/MAC_GUI)
+
+For our Mac CLI files please [click here](https://github.com/ProjectFTS/FTS_COIN/releases/download/v2.0.1/ftscoin-v2.0.1-linux.zip)
 
 For the github with repo our mobile app dev source files [click here](https://github.com/ProjectFTS/FTS_MOBILE)
 
