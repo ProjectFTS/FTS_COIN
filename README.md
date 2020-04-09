@@ -1,5 +1,5 @@
 ## Welcome to FTS Coin!
-![FTS LOGO](https://github.com/ProjectFTS/FTS_LOGO/blob/master/Wallet.png)\
+![FTS LOGO](https://github.com/ProjectFTS/FTS_LOGO/blob/master/Wallet.png)
 
 
 We hope to help provide a privacy coin that also enables the spread of mass adoption!
