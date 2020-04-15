@@ -105,7 +105,8 @@ You need to modify the below command for your version of ubuntu - see https://ap
 The binaries will be in the `src` folder when you are complete.
 
 - `cd src`
-- `./FTSCoind --version`
+- `./FTSCoind --version` or if you would like to help support the network and allow others to access your FTS node
+`./FTSCoind --enable-cors="*" --enable-blockexplorer --rpc-bind-ip=0.0.0.0 --rpc-bind-port=11898`
 
 ##### Generic Linux
 
